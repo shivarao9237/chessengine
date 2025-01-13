@@ -61,12 +61,12 @@ The AI evaluates moves based on:
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chess-ai.git
-   cd chess-ai
+   git clone https://github.com/shivarao9237/chessengine.git
+   cd chessengine
    ```
 2. Run the main script:
    ```bash
-   python chess_ai.py
+   python chessengine.py
    ```
 
 ### Customization
